@@ -1,0 +1,9 @@
+*.pyc
+/src/c_tests/build_cmake*
+/dist
+/build
+/src/openvr.egg-info
+/MANIFEST
+/.project
+/.pydevproject
+.idea

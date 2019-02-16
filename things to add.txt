@@ -1,0 +1,27 @@
+talk about how to set up robot as the robot should face in the same direction as the controller
+
+change controller diretion by running room setup with seated, and point headset in that direction
+
+talk baout how the hand motor.py can only be run form that folder
+
+run the python commands from cmd
+
+talk about the controls 
+
+change the scale function
+
+check with which controller is left or right becaues it cahnges each time you boot up steamvr
+
+wifi: computer needs to be connected to wifi for it to work, need to prioritise wifi over ethernet
+
+The following is a step by step process as to how you can use wireless internet without taking out your ethernet cable out.
+
+Open Network and Sharing Centre.
+Go to change Adapter Settings.
+Goto properties of Local Area Network.
+Click on Internet Protocol version 4 and go to it's properties.
+Click on Advanced
+You will see a block checked there by the name of "Automatic Metric".
+Uncheck it and then enter 2 in that section.
+Now, Do the same for the wireless network but enter 1.
+Save the setting and you'll be able to use wifi even when your ethernet cable is connected to the LAN.
